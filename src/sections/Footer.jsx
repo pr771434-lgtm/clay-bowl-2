@@ -40,7 +40,7 @@ export function Footer() {
 
         <div className="pt-8 border-t border-earth-900/10 flex flex-col-reverse sm:flex-row justify-between items-center gap-4 text-center sm:text-left">
           <p className="text-xs md:text-sm text-earth-900/50">
-            © {new Date().getFullYear()} Clay & Co. All rights reserved.
+            © {new Date().getFullYear()} Made by sylektus!
           </p>
           <div className="flex gap-4 md:gap-6 text-xs md:text-sm text-earth-900/50">
             <a href="#" className="hover:text-earth-900 transition-colors">Privacy Policy</a>
